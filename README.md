@@ -27,3 +27,5 @@ I used beatufiul soup to scrape the Wikipedia page of [each city with a populati
 
 * __04_Data_Viz.ipynb:__ loads data from a pickled file, and visualizes features and targets on a map of the world.
 
+#### Presentation
+* __Presentation.pdf:__ presentation of process and results
