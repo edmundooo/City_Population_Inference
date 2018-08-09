@@ -6,14 +6,6 @@ I used beatufiul soup to scrape the Wikipedia page of [each city with a populati
 ---
 ### This repository includes the follwing files:
 
-#### Raw Data
-* __01_Wiki_Scraper.ipynb:__  scrapes and parses Wiki pages, creates Pandas DataFrames of city data and pickles the DataFrames
-
-* __all_cities_a_i.pkl:__ data for relevant cities, whose names start with letters a through i
-
-* __all_cities_j_r.pkl:__ data for relevant cities, whose names start with letters j through r
-
-* __all_cities_s_z.pkl:__ data for relevant cities, whose names start with letters s through z
 
 
 #### Clean Data
