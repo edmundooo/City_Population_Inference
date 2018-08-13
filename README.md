@@ -9,10 +9,8 @@ I used beatufiul soup to scrape the Wikipedia page of [each city with a populati
 
 
 #### Clean Data
+* __01_Wiki_Scraper.ipynb:__  scrapes and parses Wiki pages, creates Pandas DataFrames of city data and pickles the DataFrames
 * __02_EDA_and_Clean.ipynb:__ reads in pickled city data, performs Exploratory Data Analysis, drop unusable data, augments data and pickles the 'cleaned' data
-
-* __all_cities_clean.pkl:__ cleaned data for all relevant cities
-
 
 #### Data Modeling and Visualization
 * __03_Modeling.ipynb:__ loads data from a pickled file, performs exploratory data analysis, tranforms target (i.e. Population), models the data to make inferences and examines the quality of those models
