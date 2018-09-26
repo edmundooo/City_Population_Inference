@@ -1,7 +1,7 @@
 # Infering City Population from City Data
 ---
 
-I used beatufiul soup to scrape the Wikipedia page of [each city with a population greater than 100,000](https://en.wikipedia.org/wiki/List_of_towns_and_cities_with_100,000_or_more_inhabitants) to get each city's elevation, area, population, annual precipitation, mean monthly sunshine hours, annual average temperature, latitude and longitude. I then built models to infer city population, using other the other data as features for analysis. Finally, I visualized the data using a world map.
+I used Beatufiul Soup to scrape the Wikipedia page of [each city with a population greater than 100,000](https://en.wikipedia.org/wiki/List_of_towns_and_cities_with_100,000_or_more_inhabitants) to get each city's elevation, area, population, annual precipitation, mean monthly sunshine hours, annual average temperature, latitude and longitude. I then built models to infer city population, using other the other data as features for analysis. Finally, I visualized the data using a world map.
 
 ---
 ### This repository includes:
