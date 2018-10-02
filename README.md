@@ -4,6 +4,10 @@
 I used Beatufiul Soup to scrape the Wikipedia page of [each city with a population greater than 100,000](https://en.wikipedia.org/wiki/List_of_towns_and_cities_with_100,000_or_more_inhabitants) to get each city's elevation, area, population, annual precipitation, mean monthly sunshine hours, annual average temperature, latitude and longitude. I then built models to infer city population, using other the other data as features for analysis. Finally, I visualized the data using a world map.
 
 ---
+
+<img width="608" alt="screen shot 2018-10-02 at 2 42 03 pm" src="https://user-images.githubusercontent.com/25728710/46369580-64c3bc00-c651-11e8-9b98-eb636acb98db.png">
+
+---
 ### This repository includes:
 
 
