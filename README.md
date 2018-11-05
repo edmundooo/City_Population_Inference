@@ -14,7 +14,7 @@ The first two IPython notebooks utilize Beatufiul Soup to scrape the Wikipedia p
 
 * __01_Wiki_Scraper.ipynb:__  scrapes and parses Wiki pages, creates pandas DataFrames of city data and pickles the DataFrames
 
-* __02_EDA_and_Clean.ipynb:__ reads in pickled city data, performs EDA, drop unusable data, augments data and pickles the 'clean' data
+* __02_EDA_and_Clean.ipynb:__ reads in pickled city data, performs EDA, drops unusable data, augments data and pickles the 'clean' data
 
 * __03_Modeling.ipynb:__ loads data from a pickled file, performs EDA, transforms target (i.e. Population), models the data to make inferences and examines the quality of those models
 
