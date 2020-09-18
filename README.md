@@ -12,14 +12,14 @@ The IPython notebooks in this repository utilize Beatufiul Soup to scrape the Wi
 ---
 ### This repository includes:
 
-* __wiki_scraper.ipynb:__  scrapes and parses Wiki pages, creates pandas DataFrames of city data and pickles the DataFrames
+1. __wiki_scraper.ipynb:__  scrapes and parses Wiki pages, creates pandas DataFrames of city data and pickles the DataFrames
 
-* __eda_and_clean.ipynb:__ reads in pickled city data, performs EDA, drops unusable data, augments data and pickles the clean data
+2. __eda_and_clean.ipynb:__ reads in pickled city data, performs EDA, drops unusable data, augments data and pickles the clean data
 
-* __modeling.ipynb:__ loads clean data from a pickled file, performs EDA, transforms target (i.e. Population), models the data to make inferences and examines the quality of those models
+3. __modeling.ipynb:__ loads clean data from a pickled file, performs EDA, transforms target (i.e. Population), models the data to make inferences and examines the quality of those models
 
-* __data_viz.ipynb:__ loads clean data from a pickled file, and visualizes features and targets on a map of the world
+4. __data_viz.ipynb:__ loads clean data from a pickled file, and visualizes features and targets on a map of the world
 
-* __Presentation.pdf:__ presentation of process and results
+5. __Presentation.pdf:__ presentation of process and results
 
 ---
